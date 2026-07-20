@@ -1,0 +1,5 @@
+.container { padding: 20px; max-width: 400px; margin: auto; }
+.form-grid { display: flex; flex-direction: column; gap: 15px; margin-top: 20px; }
+.field { display: flex; flex-direction: column; gap: 5px; }
+.checkbox-group, .radio-group { display: flex; flex-direction: column; gap: 8px; }
+h1 { font-weight: bold; }

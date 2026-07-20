@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "Venue Booking",
+    "form": {
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "Enter your name"
+        },
+        "whatsapp": {
+          "label": "WhatsApp Number",
+          "placeholder": "Enter your WhatsApp number"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Enter your email address"
+        },
+        "eventName": {
+          "label": "Event Name",
+          "placeholder": "Enter your event name"
+        },
+        "dateRange": {
+          "label": "Date and time range",
+          "placeholder": "Select start and end date/time"
+        }
+      },
+      "groups": {
+        "equipment": {
+          "label": "Equipment to be used"
+        },
+        "keySource": {
+          "label": "Source of key door"
+        }
+      },
+      "equipment": {
+        "mixer": "Mixer",
+        "projector": "Projector"
+      },
+      "keySource": {
+        "mailbox": "Mail box",
+        "ownKey": "Bring your own key"
+      }
+    }
+  }
+}
